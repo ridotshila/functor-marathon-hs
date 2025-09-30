@@ -14,10 +14,3 @@ It covers:
 - Extra Functor functions from the base library
 
 ---
-
-## 🔧 Running the Demo
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/functor-marathon-hs.git
-cd functor-marathon-hs
